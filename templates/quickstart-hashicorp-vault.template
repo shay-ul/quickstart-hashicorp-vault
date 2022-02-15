@@ -400,7 +400,7 @@ Mappings:
       CISUBUNTU2004: ami-0a94209c1fdf15321
       US2004HVM: ami-02e45c427cc633602
     eu-central-1:
-      CISUBUNTU2004: ami-016a71be939167dae
+      CISUBUNTU2004: ami-030ae675dda0cdcd2
       US2004HVM: ami-0215371f3ea49a91b
     us-east-1:
       CISUBUNTU2004: ami-06594bbf095104679
